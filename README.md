@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a capstone on the html basics. It displays knowledge of images, links, headings, and paragraphs. All images are public domain.
